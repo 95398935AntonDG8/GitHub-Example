@@ -12,6 +12,7 @@
 		FA8417722143043800A03B02 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA8417702143043800A03B02 /* Main.storyboard */; };
 		FA8417742143043900A03B02 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA8417732143043900A03B02 /* Assets.xcassets */; };
 		FA8417772143043900A03B02 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA8417752143043900A03B02 /* LaunchScreen.storyboard */; };
+		FAB086FA214707D7008D97F2 /* Epic-Jackie-Chan.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FAB086F9214707D7008D97F2 /* Epic-Jackie-Chan.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		FA8417732143043900A03B02 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FA8417762143043900A03B02 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FA8417782143043900A03B02 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FAB086F9214707D7008D97F2 /* Epic-Jackie-Chan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Epic-Jackie-Chan.jpg"; path = "../../../../Downloads/Epic-Jackie-Chan.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				FA8417732143043900A03B02 /* Assets.xcassets */,
 				FA8417752143043900A03B02 /* LaunchScreen.storyboard */,
 				FA8417782143043900A03B02 /* Info.plist */,
+				FAB086F9214707D7008D97F2 /* Epic-Jackie-Chan.jpg */,
 			);
 			path = "GitHub Example";
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 				FA8417772143043900A03B02 /* LaunchScreen.storyboard in Resources */,
 				FA8417742143043900A03B02 /* Assets.xcassets in Resources */,
 				FA8417722143043800A03B02 /* Main.storyboard in Resources */,
+				FAB086FA214707D7008D97F2 /* Epic-Jackie-Chan.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
